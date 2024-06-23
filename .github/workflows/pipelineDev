@@ -1,4 +1,4 @@
-name: Java DEV
+name: Pipeline DEV
  
 on:
   push:
